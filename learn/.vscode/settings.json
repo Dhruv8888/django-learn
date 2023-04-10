@@ -1,0 +1,6 @@
+{
+    "json.schemas": [
+
+    ],
+    "docker.commands.attach": "${containerCommand} exec -it ${containerId} ${shellCommand}"
+}
